@@ -1,8 +1,9 @@
 # Budget Tracker
 
 ## Description
+This is a model budget tracker for an avid traveler.  It was created following the instruction of the University of California, Berkeley Full Stack Web Development Bootcamp.
 
-Module 19. Progressive Web Applications (PWA) Challenge: Budget Tracker
+*Module 19. Progressive Web Applications (PWA) Challenge: Budget Tracker*
 
 User Story
 ```
