@@ -1,7 +1,7 @@
 {
-  "name": "budget-app",
+  "name": "budget-tracker",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Description This is a model budget tracker for an avid traveler.  It was created following the instruction of the University of California, Berkeley Full Stack Web Development Bootcamp.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+    "url": "https://github.com/NateBatchelder/budget-tracker"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
+    "url": "https://github.com/NateBatchelder/budget-tracker/issues"
   },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+  "homepage": "https://github.com/NateBatchelder/budget-tracker",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
